@@ -1,13 +1,11 @@
 baseURL = 'https://hugoblogapp.com'
 languageCode = 'en-us'
-title = 'Lama dev blog'
+title = 'Lucky 97 Game'
+enableRobotsTXT = true
 
-paginate = 4
+[taxonomies]  
+  about = "about"
+  contact = "contact"
 
 [params]
-  description = "The fastest blog"
-  dateFormat = "Jan 2, 2006"
-
-[taxonomies]
-  category = "categories"
-  author = "authors"
+  Description = "The Lucky 97 Game allows players in Pakistan to earn money online, with insights into its unique features, gameplay, and impact on the gaming industry."
