@@ -1,0 +1,10 @@
+# Ensure mod_rewrite is enabled
+RewriteEngine On
+
+# Redirect all HTTP to HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://lucky97game.co%{REQUEST_URI} [L,R=301]
+
+# Redirect www to non-www
+RewriteCond %{HTTP_HOST} ^www\.lucky97game\.co$ [NC]
+RewriteRule ^ https://lucky97game.co%{REQUEST_URI} [L,R=301]
