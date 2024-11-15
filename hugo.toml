@@ -1,6 +1,6 @@
 baseURL = 'https://lucky97game.co/'
 languageCode = 'en-us'
-title = 'Lucky 97 Game'
+title = 'Download'
 enableRobotsTXT = true
 
 [taxonomies]  
