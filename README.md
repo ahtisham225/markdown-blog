@@ -12,7 +12,7 @@ The **S9 Game** branch offers the following features:
 - No ads for a seamless gaming experience.  
 
 #### How to Use  
-1. Download the APK from our official website. [S9GAME]([url](https://s9game.bet/))
+1. Download the APK from our official website. [S9GAME](https://s9game.bet/)
 2. Install on your Android device.  
 3. Create an account and verify it via WhatsApp OTP.  
 4. Start playing and earning!  
