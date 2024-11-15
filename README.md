@@ -6,8 +6,8 @@ This repository contains two exciting gaming apps: **S9 Game** and **Lucky 97 Ga
 
 ## Branches  
 
-
-### Lucky 97 Game  
+### 
+### main - Lucky 97 Game  
 The **Lucky 97 Game** branch is designed for players who enjoy fast-paced games and earning opportunities.  
 
 #### Key Features  
@@ -17,7 +17,7 @@ The **Lucky 97 Game** branch is designed for players who enjoy fast-paced games 
 - Daily login bonuses and rewards for consistent players.  
 
 #### How to Use  
-1. Download the Lucky 97 APK from the official website.  
+1. Download the Lucky 97 APK from Our official website. [Lucky 97 Game Download](http://lucky97game.co/) 
 2. Install it on your Android device.  
 3. Sign up and start exploring the available games.  
 4. Enjoy rewards and instant withdrawals.  
