@@ -14,7 +14,7 @@ The **Lucky 97 Game** branch is designed for players who enjoy fast-paced games 
 - Play unique games with exciting gameplay mechanics.  
 - Earn and redeem rewards instantly through various payout methods.  
 - Ad-free experience for uninterrupted gaming.  
-- Daily login bonuses and rewards for consistent players.  
+- Daily login bonuses and rewards for consistent players. AAA 
 
 #### How to Use  
 1. Download the Lucky 97 APK from Our official website. [Lucky 97 Game Download](http://lucky97game.co/) 
